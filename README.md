@@ -24,5 +24,3 @@ sales, profit, quantity, and orders across regions and categories.
 - Category-wise Breakdown
 - Top Products
 
-## 👤 Author
-Your Name
